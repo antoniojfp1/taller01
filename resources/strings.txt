@@ -1,0 +1,4 @@
+<string>"titulo"=Taller 01</string>
+<string>"options"=Opciones</string>
+<string>"documents"=Documentos</string>
+
